@@ -2,7 +2,7 @@
 # Simple PayPal Integration
 ## By Mario Westfahl
 
-### Following the original PayPay REDME:
+### Following the original PayPay README:
 
 ![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/pp-cover.png)
 
