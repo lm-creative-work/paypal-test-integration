@@ -2,9 +2,10 @@
 # Simple PayPal Integration
 ## By Mario Westfahl
 
-### Following the original PayPay README:
+Thank you for the opportunity to prove my skills and I am looking forward to talk more about the project in the interview.
 
-![PayPal Developer Cover](https://github.com/paypaldev/.github/blob/main/pp-cover.png)
+
+### Following the original PayPay README:
 
 <div align="center">
   <a href="https://twitter.com/paypaldev" target="_blank">
