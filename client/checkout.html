@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="./app.css" rel="stylesheet">
+    <title>Mario Westfahl | PayPal JS SDK Standard Integration</title>
+  </head>
+  <body>
+  <div
+  class="relative h-[200px] bg-blue-500 p-12 text-center text-white mb-8">
+  <div
+    class="absolute bottom-0 left-0 right-0 top-0 h-full w-full overflow-hidden bg-black/60 bg-fixed">
+    <div class="flex h-full items-center justify-center">
+      <div class="text-white">
+        <h1 class="mb-4 text-4xl font-semibold">Simple PayPal Integration</h1>
+        <h2 class="mb-6 text-xl font-semibold">by Mario Westfahl</h2> 
+      </div>
+    </div>
+  </div>
+  </div>
+
+    <div id="paypal-button-container"></div>
+    <p id="result-message"></p>
+    <!-- Replace the "test" client-id value with your client-id -->
+    <script src="https://www.paypal.com/sdk/js?client-id=AeT9h1Yrr9f9FRAsYzRaYV47FxxKgOd2pwDSbRJdf4eHLWl6M8nxnvIeU7uXqjLmZ9h-FZQxV9ta53ba&buyer-country=US&currency=EUR&components=buttons&enable-funding=venmo" data-sdk-integration-source="integrationbuilder_sc"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
