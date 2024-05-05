@@ -2,6 +2,10 @@
 # Simple PayPal Integration
 ## By Mario Westfahl
 
+This is a simple test integration of the paypal checkout.
+Initialy, after npm start, you will see the paypal standard checkout buttons to make a purchase via PayPal Account or Credit Card.
+After a successful test transaction, the transaction status and id are displayed, as well as a custom made button to refund the recently captured transaction.
+
 Thank you for the opportunity to prove my skills and I am looking forward to talk more about the project in the interview.
 
 
